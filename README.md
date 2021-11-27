@@ -1,3 +1,3 @@
 # hello-world
 First Repository
-Hello, I'm Devell Robinson of BorDev Tech!
+Hello, I'm Rob of BorDev Tech!
